@@ -13,7 +13,7 @@
 		
 	},
 	"dependencies": {
-		"base-x": "^3.0.2",
+		"base-x": "^3.0.11",
 		"bip39": "^2.4.0",
 		"bitcoinjs-lib-secp256r1": "https://github.com/coranos/bitcoinjs-lib-secp256r1.git",
 		"neon-js": "git+https://github.com/CityOfZion/neon-js.git#1.1.1"
